@@ -1,0 +1,15 @@
+D:\.NET C#\Inventory Manager\bin\Debug\Inventory Manager.exe.config
+D:\.NET C#\Inventory Manager\bin\Debug\Inventory Manager.exe
+D:\.NET C#\Inventory Manager\bin\Debug\Inventory Manager.pdb
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.csproj.AssemblyReference.cache
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.csproj.SuggestedBindingRedirects.cache
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.LoginForm.resources
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.Properties.Resources.resources
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.csproj.GenerateResource.cache
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.csproj.CoreCompileInputs.cache
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.exe
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory Manager.pdb
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.CustomerButton.resources
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.MainForm.resources
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.UserForm.resources
+D:\.NET C#\Inventory Manager\obj\Debug\Inventory_Manager.UserModuleForm.resources
